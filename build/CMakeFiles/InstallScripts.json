@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ADMIN/Desktop/Work/Project/cpp/3D-CUBE/build/cmake_install.cmake",
+		"C:/Users/ADMIN/Desktop/Work/Project/cpp/3D-CUBE/build/external/glfw/cmake_install.cmake",
+		"C:/Users/ADMIN/Desktop/Work/Project/cpp/3D-CUBE/build/external/glfw/src/cmake_install.cmake",
+		"C:/Users/ADMIN/Desktop/Work/Project/cpp/3D-CUBE/build/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
